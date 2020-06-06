@@ -3,7 +3,7 @@ layout: post
 title: Texas Tijuana Taco Penne Chicken Pasta
 ---
 
-![adios 2010]({{ site.baseurl }}/images/pasta.jpeg "adios 2010")
+![penne pasta]({{ site.baseurl }}/images/pasta.jpg "penne pasta")
 
 
 This is one of my favorite pasta recipes. It’s super easy to make and takes less than 30 min's. Made some changes to the recipe I found online. 
