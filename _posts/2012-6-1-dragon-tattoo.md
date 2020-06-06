@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Adios 2010...Welcome 2011!
+title: Book Review: The Millennium Trilogy by Stieg Larrson
 ---
 
-![dragon tattoo]({{ site.baseurl }}/images/tattoo.jpg "dragon tattoo")
+![dragon tattoo]({{ site.baseurl }}/images/tattoo.png "dragon tattoo")
 
 Last year, I stumbled upon this book at a local Barnes and Nobles...."The Girl with Dragon Tattoo". It was written by a relatively unheard author Stieg Larrson (unknown to me...) from Sweden. What piqued my interest apart from the cover was the fact that it sold more than 27 million copies around the world in a very short span of time and also won numerous awards viz, NY Times Best Seller. So I thought, why not..I had a long flight ahead....8 hours to be precise...from Seattle to Miami...and this seemed like a good idea to kill some time.
 
