@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book Review: The Millennium Trilogy by Stieg Larrson
+title: The Millennium Trilogy by Stieg Larrson
 ---
 
 ![dragon tattoo]({{ site.baseurl }}/images/tattoo.png "dragon tattoo")
